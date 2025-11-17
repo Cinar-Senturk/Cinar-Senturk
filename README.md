@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Çınar Şentürk</h1>
 <h3 align="center">A passionate games and animation developer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cinar-senturk&label=Profile%20views&color=0e75b6&style=flat" alt="cinar-senturk" /> </p>
+
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cinar-senturk&show_icons=true&locale=en" alt="cinar-senturk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cinar-senturk&" alt="cinar-senturk" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cinar-senturk&label=Profile%20views&color=0e75b6&style=flat" alt="cinar-senturk" /> </p>
